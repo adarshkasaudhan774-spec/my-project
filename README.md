@@ -1,2 +1,2 @@
 # my-project
-this repo in python
+This Repositary in python launguage 
